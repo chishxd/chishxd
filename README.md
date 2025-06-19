@@ -1,31 +1,42 @@
 # 👋 Hi, I’m Chinmay (aka Chish)
 
-🎓 AIML Student at New Institute of Technology, Kolhapur  
-💻 Focused on building clean, real-world-impact software  
-🚀 Aiming to go from indie dev → freelancer → FOSS contributor → founder  
+🎓 AIML Student & Software Builder  
+📍 New Institute of Technology, Kolhapur
+
+Focused on building clean, high-impact software. I turn problems into products.
+
+I'm currently seeking challenging internships and freelance opportunities.
+---
+
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chishxd&show_icons=true&theme=radical&rank_icon=github" alt="chishxd's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chishxd&layout=compact&theme=radical&exclude_repo=diploma-notes" alt="Top Langs" />
+</p>
 
 ---
 
-## 🧠 What I’m Learning & Building
+## 🚀 Featured Project
 
-- 🤖 AI/ML: Hands-on with Python, Data Structures, and algorithms
-- 🛠️ Projects: Building practical tools with Python & Java — no fluff
-- 🧪 Internships: Doing one now, seeking more *real* learning
-- 🌐 Web Dev: Learning JavaScript, aiming for clean, scalable UIs
+Here is the main tool I've built. It's a product, not just a script.
 
----
-
-## 📌 Current Priorities
-
-- 🎯 Personal AI/ML projects
-- 📂 FOSS contributions (esp. browsers, devtools, Linux utilities)
-- 🛠️ Portfolio-quality projects using Python, Java, and PL/SQL
-- 🧠 Studying AI & ML Algorithms, OS, and Cloud Computing
+| Project | Description | Tech Stack | Status |
+|---|---|---|---|
+| **[AutoCleanSE](https://github.com/chishxd/AutoCleanSE)** | A command-line tool to automate the initial data profiling and cleaning phase of any data science project. | `Python`, `Pandas` | Active |
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 My Toolkit
 
-```python
-Languages: Python, Java, PL/SQL, Bash, HTML/CSS, JS (learning)
-Tools: Git, GitHub, Fedora Linux, NVChad, DaVinci Resolve
+| Category | Tools |
+|---|---|
+| **Languages** | `Python`, `Java`, `PL/SQL`, `Bash`, `JavaScript` |
+| **Dev Environment** | `Fedora Linux`, `Git`, `GitHub`, `NVChad` |
+| **Data & ML** | `Pandas`, `Scikit-learn` |
+
+---
+
+## 📫 Get In Touch
+
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Discuss a Project:** Open an issue in my [personal repo](https://github.com/chishxd/chishxd/issues)
