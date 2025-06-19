@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Chinmay (aka Chish)
 
-🎓 2nd-year AIML Diploma Student at New Institute of Technology, Kolhapur  
+🎓 AIML Student at New Institute of Technology, Kolhapur  
 💻 Focused on building clean, real-world-impact software  
 🚀 Aiming to go from indie dev → freelancer → FOSS contributor → founder  
 
