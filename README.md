@@ -6,6 +6,7 @@
 Focused on building clean, high-impact software. I turn problems into products.
 
 I'm currently seeking challenging internships and freelance opportunities.
+
 ---
 
 ### 📊 My GitHub Stats
