@@ -39,5 +39,5 @@ Here is the main tool I've built. It's a product, not just a script.
 
 ## 📫 Get In Touch
 
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/chinmay-shet)
+- **LinkedIn:** [linkedin.com/in/chinmay-shet](https://linkedin.com/in/chinmay-shet)
 - **Discuss a Project:** Open an issue in my [personal repo](https://github.com/chishxd/chishxd/issues)
