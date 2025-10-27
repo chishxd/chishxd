@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Chinmay (aka Chish)
+# Hi, I’m Chinmay (aka Chish)
 
-🎓 AIML Student & Software Builder  
-📍 New Institute of Technology, Kolhapur
+AIML Student & Software Builder  
+@ New Institute of Technology, Kolhapur
 
 Focused on building clean, high-impact software. I turn problems into products.
 
@@ -14,16 +14,6 @@ I'm currently seeking challenging internships and freelance opportunities.
   <img src="https://github-readme-stats.vercel.app/api?username=chishxd&show_icons=true&theme=radical&rank_icon=github" alt="chishxd's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chishxd&layout=compact&theme=radical&exclude_repo=diploma-notes" alt="Top Langs" />
 </p>
-
----
-
-## 🚀 Featured Project
-
-Here is the main tool I've built. It's a product, not just a script.
-
-| Project | Description | Tech Stack | Status |
-|---|---|---|---|
-| **[AutoCleanSE](https://github.com/chishxd/AutoCleanSE)** | A command-line tool to automate the initial data profiling and cleaning phase of any data science project. | `Python`, `Pandas` | Active |
 
 ---
 
