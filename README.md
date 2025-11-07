@@ -1,11 +1,11 @@
 # Hi, I’m Chinmay (aka Chish)
 
-AIML Student & Software Builder  
+AIML Student
 @ New Institute of Technology, Kolhapur
 
-Focused on building clean, high-impact software. I turn problems into products.
+I love coding, It's fun :D
 
-I'm currently seeking challenging internships and freelance opportunities.
+Let's build something together!
 
 ---
 
@@ -21,8 +21,8 @@ I'm currently seeking challenging internships and freelance opportunities.
 
 | Category | Tools |
 |---|---|
-| **Languages** | `Python`, `Java`, `PL/SQL`, `Bash`, `JavaScript` |
-| **Dev Environment** | `Fedora Linux`, `Git`, `GitHub`, `NVChad` |
+| **Languages** | `Python`, `Java`, `PL/SQL`, `JavaScript` |
+| **Dev Environment** | `Fedora Linux`, `Git`, `GitHub`, `NVChad`, `VSCode` |
 | **Data & ML** | `Pandas`, `Scikit-learn` |
 
 ---
