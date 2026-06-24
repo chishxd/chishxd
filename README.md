@@ -1,2 +1,4 @@
-![computah](https://media1.tenor.com/m/P1DN5Ionz2AAAAAd/corvax-muzzy-in-gondoland.gif)
-I love computers... Let's build smth!
+![computah](https://github.com/chishxd/chishxd/blob/main/corvax-muzzy-in-gondoland.gif)
+
+I love computers :D
+Let's build smth!
