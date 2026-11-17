@@ -1,6 +1,6 @@
 ![computah](https://github.com/chishxd/chishxd/blob/main/corvax-muzzy-in-gondoland.gif)
 
 I love computers :D\
-Let's build smth!
+Let's build something fun!
 
-[`Site`](https://chishxd.xyz/)
+[`Site`](https://chish.dev/)
